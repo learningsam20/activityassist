@@ -1,4 +1,4 @@
-# AI UPM Assist - Setup and Execution Guide
+# AI Activity Assist - Setup and Execution Guide
 
 This guide details how to install, configure, and run all components of the AI Powered User Monitoring System.
 
@@ -36,7 +36,7 @@ npm install
 A `.env` file must be present at the root of the project (`E:\Coding\aiupmassist\.env`). Here is the required structure:
 ```env
 # Database
-DATABASE_URL=sqlite:///./aiupmassist.db
+DATABASE_URL=sqlite:///./activityassist.db
 
 # JWT Auth
 SECRET_KEY=supersecretkey

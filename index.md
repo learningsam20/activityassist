@@ -1,7 +1,8 @@
-# AI UPM Assist - Documentation
+
+# AI Activity Assist - Documentation
 
 ## Overview
-AI UPM Assist is an AI-powered User Activity Monitoring system designed to track user interactions, intelligently cluster them into Standard Operating Procedures (SOPs), and detect anomalies or deviations from approved workflows.
+AI Activity Assist is an AI-powered User Activity Monitoring system designed to track user interactions, intelligently cluster them into Standard Operating Procedures (SOPs), and detect anomalies or deviations from approved workflows.
 
 ## Functionality Supported
 
